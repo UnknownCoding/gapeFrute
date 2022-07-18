@@ -2,6 +2,8 @@ import Head from 'next/head'
 import Image from 'next/image'
 import Header from '../Components/Header'
 import Hero from '../Components/Hero'
+import '../styles/globals.css'
+
 
 export default function Home() {
   return (
